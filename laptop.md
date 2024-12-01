@@ -48,6 +48,6 @@ https://en.wikipedia.org/wiki/Laptop#:~:text=W%20wi%C4%99kszo%C5%9Bci%20laptop%C
 
 ### IV Lista największych producentów laptopów
 
-Lenovo
-Apple
-Dell
+* Lenovo
+* Apple
+* Dell
