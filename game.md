@@ -23,5 +23,5 @@ Gra zdobyła uznanie graczy i recenzentów, uzyskując w wersji na PC średnią 
 [Oficjalna strona](https://www.counter-strike.net/)
 [Counter_Strike Wiki](https://pl.wikipedia.org/wiki/Counter-Strike_(seria))
 
-![Counter-Strike okładka](https://scontent-waw2-2.xx.fbcdn.net/v/t1.6435-9/157980349_206222707715767_3402076773173572862_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=KpyCGUYaA9UQ7kNvgHk27o1&_nc_zt=23&_nc_ht=scontent-waw2-2.xx&_nc_gid=ADo-nhRtcwOiCj7I9ANafth&oh=00_AYAU_XfEVTQbNrorA5v8zYfKCFMj-u4I2ncTl9oumZnb6A&oe=67759E5F)
+![Counter-Strike okładka]([https://scontent-waw2-2.xx.fbcdn.net/v/t1.6435-9/157980349_206222707715767_3402076773173572862_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=KpyCGUYaA9UQ7kNvgHk27o1&_nc_zt=23&_nc_ht=scontent-waw2-2.xx&_nc_gid=ADo-nhRtcwOiCj7I9ANafth&oh=00_AYAU_XfEVTQbNrorA5v8zYfKCFMj-u4I2ncTl9oumZnb6A&oe=67759E5F](https://static.android.com.pl/uploads/2023/09/Counter-Strike-2-CS2.png))
 ![Counter-Strike Gameplay](https://i.ytimg.com/vi/O8KkJvpz2xc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBtwzP7bBQUweCfyrJ0bF0A_WV-VQ)
